@@ -51,3 +51,5 @@ However, exploratory data analysis reveals some situations where coffee House co
 With respect to the coffee house coupons, not all determinants are knowable at the time of issuance of coupons. For example, we can know the time of day; we may not know if a recipient has child with them.
 
 An ROI analysis should be performed on sending coupons based on knowable determinants. Though it may be possible that it is profitable to send coupons regardless of determinants, it is likely that now, or in the future it will be cost effective only above a certain threshold of acceptance. The greatest acceptance would be expected with the conditions listed above. Further analysis could seek to identify other higher acceptance subpopulations by further exploring combinations of determinants.
+
+> [ View Analysis Details ](./analysis.ipynb)&nbsp;<img src="./images/j-notebook.png" alt="jupyter notebook" style="width:14px;"/>
